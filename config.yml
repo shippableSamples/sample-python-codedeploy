@@ -1,0 +1,8 @@
+branch-defaults:
+  master:
+    environment: sample-python-env
+global:
+  application_name: sample-python
+  default_region: us-west-2
+  profile: eb-cli
+  sc: git
