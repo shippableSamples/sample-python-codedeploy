@@ -1,0 +1,4 @@
+#!/bin/bash
+yum install -y httpd mod_wsgi.x86_64
+easy_install pip
+pip install -r /home/ec2-user/sample-app/requirements.txt

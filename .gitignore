@@ -1,0 +1,4 @@
+.ve/
+coverage/
+.*.swp
+*.pyc
